@@ -70,7 +70,7 @@ public class UserService {
 
 ## 📖 Reference
 
-[https://github.com/tongnamuu/SpringEvent](https://github.com/tongnamuu/SpringEvent)
+[실습 프로젝트](https://github.com/tongnamuu/SpringEvent)
 
 [https://shinsunyoung.tistory.com/88](https://shinsunyoung.tistory.com/88)
 
