@@ -14,7 +14,7 @@
 @RequiredArgsConstructor
 public class UserService {
 
-	private final UserRepository userRepository;
+  private final UserRepository userRepository;
   private final SenderService senderService;
   private final CouponService couponService;
 
